@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnderDrawableSpan</string>
+    <string name="text_rtl">אבג</string>
+    <string name="text_ltr">agc\nxyz</string>
+</resources>
